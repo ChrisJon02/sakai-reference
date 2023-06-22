@@ -12,7 +12,7 @@ The latest release of Sakai can always be found at:
 To see the institutions involved in the Sakai collaboration and
 their implementation status, see:
 
-	http://bugs.sakailms.org/confluence/display/PROD/Implementations
+	http://bugs.sakaiproject.org/confluence/display/PROD/Implementations
 	
 	
 THE reference/docs DIRECTORY
@@ -49,7 +49,7 @@ A good start for developers interested in working with Sakai is the wiki
 space named "Programmer's Cafe," where many tutorials and tips have
 been collected by community developers.
 
-	http://bugs.sakailms.org/confluence/display/BOOT/Home
+	http://bugs.sakaiproject.org/confluence/display/BOOT/Home
 
 Technical documentation and white papers can be found in the architecture/
 directory.
@@ -73,7 +73,7 @@ set up for community sub-groups, but in day-to-day activity it is
 used most often as a kind of listserv.  You're encouraged to set up an 
 account on the collab server and join any groups you like at:
 
-	http://collab.sakailms.org
+	http://collab.sakaiproject.org
 	
 The most active site there is the "DG: Development" site, otherwise known as "sakai-dev".
 
@@ -83,7 +83,7 @@ PROJECT STATUS
 The best central location for information on sub-project status and
 the variety of tools - standard or not - available for Sakai is:
 
-	http://bugs.sakailms.org/confluence/display/MGT
+	http://bugs.sakaiproject.org/confluence/display/MGT
 	
 	
 LICENSE
